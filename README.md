@@ -1,2 +1,2 @@
 # newsProjectClassicWeb
-My first priject as IT Academy trainee
+My first project as IT Academy trainee
